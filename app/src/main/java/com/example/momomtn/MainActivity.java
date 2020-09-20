@@ -21,7 +21,7 @@ import org.json.JSONException;
 import java.io.IOException;
 
 public class MainActivity extends AppCompatActivity {
-    private static String PRIMARY_KEY = "538f7b49ca69455e8c25124793886597";
+    private static String PRIMARY_KEY = "Put Your Account Primary Key Here";
     private static String CONTENT_TYPE = "application/json";
     private static String UUID;
     private int CREATION_RESPONSE_CODE;
